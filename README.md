@@ -8,3 +8,24 @@
 |内存|消息|HTTP延迟|...|
 |网络|服务|性能|...|
 存储|数据库|监控状态|...|
+
+
+# Install Prometheus With Kubernetes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#参考文章：
+https://www.jianshu.com/p/8788820f7110
+https://www.jianshu.com/p/307f106b8dd8
